@@ -9,20 +9,20 @@ const outputPath = resolve('data/fmhy-source-reconciliation.json');
 const directory = JSON.parse(readFileSync(directoryPath, 'utf8'));
 const registryText = readFileSync(registryPath, 'utf8');
 
-const communityHost = /(?:^|\\.)(?:discord\\.gg|discord\\.com|reddit\\.com|t\\.me|telegram\\.me|github\\.com|youtube\\.com|youtu\\.be|twitter\\.com|x\\.com|facebook\\.com|instagram\\.com|tiktok\\.com|patreon\\.com|ko-fi\\.com)$/i;
-const normalizeHost = value => String(value || '').replace(/^www\\./i, '').toLowerCase();
+const communityHost = /(?:^|\.)(?:discord\.gg|discord\.com|reddit\.com|t\.me|telegram\.me|github\.com|youtube\.com|youtu\.be|twitter\.com|x\.com|facebook\.com|instagram\.com|tiktok\.com|patreon\.com|ko-fi\.com)$/i;
+const normalizeHost = value => String(value || '').replace(/^www\./i, '').toLowerCase();
 const getHost = value => {
   try { return normalizeHost(new URL(value).hostname); } catch { return ''; }
 };
 
-const recordsText = registryText.split(/\\n    \\{\\n      id: /).slice(1);
+const recordsText = registryText.split(/\n    \{\n      id: /).slice(1);
 const registryRecords = recordsText.map(block => {
   const id = (block.match(/^'([^']+)'/) || [])[1] || '';
   const canonicalDomain = (block.match(/canonicalDomain: '([^']+)'/) || [])[1] || '';
   const name = (block.match(/name: '([^']+)'/) || [])[1] || id;
-  const familyId = (block.match(/family:\\s*\\{\\s*id: '([^']+)'/) || [])[1] || '';
+  const familyId = (block.match(/family:\s*\{\s*id: '([^']+)'/) || [])[1] || '';
   const status = (block.match(/status: '(supported|unsupported|unknown|disabled)'/) || [])[1] || 'unknown';
-  const aliasesBlock = (block.match(/aliases: \\[([\\s\\S]*?)\\]/) || [])[1] || '';
+  const aliasesBlock = (block.match(/aliases: \[([\s\S]*?)\]/) || [])[1] || '';
   const aliases = [...aliasesBlock.matchAll(/'([^']+)'/g)].map(match => normalizeHost(match[1]));
   return { id, name, canonicalDomain: normalizeHost(canonicalDomain), aliases, familyId, status };
 }).filter(record => record.id && record.canonicalDomain);
@@ -93,7 +93,7 @@ const report = {
 };
 
 mkdirSync(dirname(outputPath), { recursive: true });
-writeFileSync(outputPath, JSON.stringify(report, null, 2) + '\\n');
+writeFileSync(outputPath, JSON.stringify(report, null, 2) + '\n');
 process.stdout.write(JSON.stringify({
   outputPath,
   directoryEntries: report.directory.entryCount,
@@ -101,4 +101,4 @@ process.stdout.write(JSON.stringify({
   matchedDirectoryHosts: report.runtimeRegistry.matchedDirectoryHostCount,
   unmatchedDirectoryHosts: report.runtimeRegistry.unmatchedDirectoryHostCount,
   registryRecords: report.runtimeRegistry.recordCount
-}, null, 2) + '\\n');
+}, null, 2) + '\n');
