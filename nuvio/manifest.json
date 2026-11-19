@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fmhy-validated-streams",
+    "name": "FMHY Validated Streams",
+    "description": "Nuvio provider bridge for FMHY sources that pass the backend's extraction and playback validation.",
+    "version": "1.0.0",
+    "author": "StuartVk",
+    "supportedTypes": [
+      "movie",
+      "tv"
+    ],
+    "filename": "nuvio/providers/fmhy.js",
+    "enabled": true,
+    "logo": "",
+    "contentLanguage": [
+      "en"
+    ],
+    "formats": [
+      "mp4",
+      "mkv",
+      "m3u8",
+      "mpd"
+    ],
+    "limited": false,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
