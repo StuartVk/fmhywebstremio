@@ -1,5 +1,5 @@
 import { randomUUID } from 'node:crypto';
-import { appendFileSync } from 'node:fs';
+import { appendFileSync, existsSync, readFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import express, { NextFunction, Request, Response } from 'express';
@@ -145,6 +145,17 @@ addon.get('/startup', async (_req: Request, res: Response) => {
 
 addon.get('/ready', async (_req: Request, res: Response) => {
   res.json({ status: 'ok' });
+});
+
+// Metadata-only mirror of the official FMHY Streaming wiki.
+// The directory is generated daily by GitHub Actions; it does not add extractors.
+addon.get('/directory.json', (_req: Request, res: Response) => {
+  const directoryPath = join(process.cwd(), 'data', 'fmhy-streaming-directory.json');
+  if (!existsSync(directoryPath)) {
+    res.status(503).json({ status: 'pending', message: 'The first scheduled or manual FMHY directory sync has not completed.' });
+    return;
+  }
+  res.type('application/json').send(readFileSync(directoryPath, 'utf8'));
 });
 
 addon.get('/live', async (_req: Request, res: Response) => {
