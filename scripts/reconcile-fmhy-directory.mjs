@@ -2,6 +2,7 @@
 /* global process */
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
+import { URL } from 'node:url';
 
 const directoryPath = resolve('data/fmhy-streaming-directory.json');
 const registryPath = resolve('src/engine/registry/deployment-registry.generated.ts');
@@ -15,7 +16,7 @@ const getHost = value => {
   try { return normalizeHost(new URL(value).hostname); } catch { return ''; }
 };
 
-const recordsText = registryText.split(/\n    \{\n      id: /).slice(1);
+const recordsText = registryText.split(/\n{4}\{\n{6}id: /).slice(1);
 const registryRecords = recordsText.map(block => {
   const id = (block.match(/^'([^']+)'/) || [])[1] || '';
   const canonicalDomain = (block.match(/canonicalDomain: '([^']+)'/) || [])[1] || '';
