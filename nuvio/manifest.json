@@ -9,7 +9,7 @@
       "movie",
       "tv"
     ],
-    "filename": "nuvio/providers/fmhy.js",
+    "filename": "providers/fmhy.js",
     "enabled": true,
     "logo": "",
     "contentLanguage": [
