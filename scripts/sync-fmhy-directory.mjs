@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* global process */
 /**
  * Build a metadata-only index of the official FMHY Streaming wiki.
  * This script does NOT visit listed sites, extract media URLs, or enable playback.
@@ -69,7 +70,7 @@ function parseWiki(markdown) {
     }
 
     const plain = cleanMarkdown(rawEntry)
-      .replace(/^[🌟⭐🌐↪️📺🎬🎞️\s]+/u, '')
+      .replace(/^\s+/, '')
       .trim();
     const title = (plain.split(/\s+-\s+/)[0] || plain).trim();
     if (!title) continue;
