@@ -64,7 +64,7 @@ function getStreams(tmdbId, mediaType, season, episode) {
         }).join(' | ');
 
         var result = {
-          name: 'FMHY',
+          name: 'CVN-FMHY',
           title: label || 'Validated stream',
           url: stream.url
         };
