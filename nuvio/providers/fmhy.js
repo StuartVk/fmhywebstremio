@@ -1,3 +1,5 @@
+/* global fetch, module, console */
+
 /*
  * FMHY bridge provider for Nuvio.
  *
