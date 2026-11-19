@@ -1,13 +1,13 @@
 {
   "name": "FMHY Nuvio Providers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FMHY stream provider bridge for Nuvio. Returns streams discovered and validated by the FMHY backend.",
   "scrapers": [
     {
       "id": "fmhy-validated-streams",
-      "name": "FMHY Validated Streams",
+      "name": "CVN-FMHY Validated Streams",
       "description": "Nuvio provider bridge for FMHY sources that pass the backend's extraction and playback validation.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "StuartVk",
       "supportedTypes": [
         "movie",
