@@ -15,9 +15,10 @@ var FMHY_BACKEND = 'https://fmhywebstremio-m0os.onrender.com';
 
 function getStreams(tmdbId, mediaType, season, episode) {
   var type = mediaType === 'tv' || mediaType === 'series' ? 'series' : 'movie';
-  var id = 'tmdb:' + String(tmdbId || '').trim();
+  var normalizedTmdbId = String(tmdbId || '').replace(/^tmdb:/i, '').trim();
+  var id = 'tmdb:' + normalizedTmdbId;
 
-  if (!tmdbId || !/^\d+$/.test(String(tmdbId))) {
+  if (!normalizedTmdbId || !/^\d+$/.test(normalizedTmdbId)) {
     return Promise.resolve([]);
   }
 
