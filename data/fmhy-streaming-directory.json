@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-20T12:56:51.333Z",
+  "fetchedAt": "2026-11-21T12:41:57.407Z",
   "entryCount": 218,
   "categories": [
     "Stream Aggregators",
@@ -108,7 +108,7 @@
       "links": [
         {
           "label": "Vivarium",
-          "url": "https://vivarium.su/"
+          "url": "https://vivarium.st/"
         },
         {
           "label": "Discord",
@@ -117,7 +117,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Vivarium](https://vivarium.su/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/pxVxUdFxj5)"
+      "sourceLine": "🌟 **[Vivarium](https://vivarium.st/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/pxVxUdFxj5)"
     },
     {
       "category": "Stream Aggregators",
