@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-21T12:41:57.407Z",
+  "fetchedAt": "2026-11-22T12:38:11.246Z",
   "entryCount": 218,
   "categories": [
     "Stream Aggregators",
@@ -17,46 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 PopcornMovies or BingeBox",
-      "description": "4K / External Subs / Ad-Toggle",
-      "links": [
-        {
-          "label": "PopcornMovies",
-          "url": "https://popcornmovies.st/"
-        },
-        {
-          "label": "BingeBox",
-          "url": "https://bingebox.ac/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[PopcornMovies](https://popcornmovies.st/)** or [BingeBox](https://bingebox.ac/) - 4K / External Subs / Ad-Toggle"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 Atlantic or fprime",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
-      "links": [
-        {
-          "label": "Atlantic",
-          "url": "https://atlantic.bz/"
-        },
-        {
-          "label": "fprime",
-          "url": "https://fprime.at/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.com/invite/ekUMJ7WVnW"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Atlantic](https://atlantic.bz/)** or [fprime](https://fprime.at/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.com/invite/ekUMJ7WVnW)"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 ShuttleTV, 2",
@@ -231,47 +191,43 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Flixer, 2, 3 or Hexa",
-      "description": "1080p / Ad-Toggle",
+      "title": "🌟 PopcornMovies or BingeBox",
+      "description": "4K / External Subs / Ad-Toggle",
       "links": [
         {
-          "label": "Flixer",
-          "url": "https://flixer.gd"
+          "label": "PopcornMovies",
+          "url": "https://popcornmovies.st/"
         },
         {
-          "label": "2",
-          "url": "https://flixer.su/"
-        },
-        {
-          "label": "3",
-          "url": "https://flixer.cx/"
-        },
-        {
-          "label": "Hexa",
-          "url": "https://hexa.su/"
+          "label": "BingeBox",
+          "url": "https://bingebox.ac/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle"
+      "sourceLine": "🌟 **[PopcornMovies](https://popcornmovies.st/)** or [BingeBox](https://bingebox.ac/) - 4K / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ CineLite",
-      "description": "4K / Dual Audio / Ad-Toggle / Status",
+      "title": "🌟 Atlantic or fprime",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
       "links": [
         {
-          "label": "CineLite",
-          "url": "https://cinelite.xyz/"
+          "label": "Atlantic",
+          "url": "https://atlantic.bz/"
         },
         {
-          "label": "Status",
-          "url": "https://rentry.co/cinelite"
+          "label": "fprime",
+          "url": "https://fprime.at/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.com/invite/ekUMJ7WVnW"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
+      "sourceLine": "🌟 **[Atlantic](https://atlantic.bz/)** or [fprime](https://fprime.at/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.com/invite/ekUMJ7WVnW)"
     },
     {
       "category": "Stream Aggregators",
@@ -371,7 +327,7 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Way2Movies, 2",
+      "title": "⭐ Way2Movies, 2, [3](httpsld.way2movies.vip), [4](httpsway2movies.vip)",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle / Telegram / Discord",
       "links": [
         {
@@ -393,7 +349,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
+      "sourceLine": "⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/), [3](httpsld.way2movies.vip), [4](httpsway2movies.vip) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
     },
     {
       "category": "Stream Aggregators",
@@ -522,6 +478,50 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[MeowTV](https://meowtv.ru/)** or [FlickyStream](https://flickystream.mov/) - 1080p / Dual Audio / External Subs / Ad-Toggle"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ Flixer, 2, 3 or Hexa",
+      "description": "1080p / Ad-Toggle",
+      "links": [
+        {
+          "label": "Flixer",
+          "url": "https://flixer.gd"
+        },
+        {
+          "label": "2",
+          "url": "https://flixer.su/"
+        },
+        {
+          "label": "3",
+          "url": "https://flixer.cx/"
+        },
+        {
+          "label": "Hexa",
+          "url": "https://hexa.su/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ CineLite",
+      "description": "4K / Dual Audio / Ad-Toggle / Status",
+      "links": [
+        {
+          "label": "CineLite",
+          "url": "https://cinelite.xyz/"
+        },
+        {
+          "label": "Status",
+          "url": "https://rentry.co/cinelite"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
     },
     {
       "category": "Stream Aggregators",
@@ -757,15 +757,11 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "ThugTV, 2",
-      "description": "1080p / Dual Audio / Ad-Toggle / Telegram / Discord",
+      "title": "ThugTV",
+      "description": "720p / Dual Audio / Ad-Toggle / Telegram / Discord",
       "links": [
         {
           "label": "ThugTV",
-          "url": "https://thugtv.online/"
-        },
-        {
-          "label": "2",
           "url": "https://thugtv.st"
         },
         {
@@ -779,7 +775,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[ThugTV](https://thugtv.online/), [2](https://thugtv.st) - 1080p / Dual Audio / Ad-Toggle / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)"
+      "sourceLine": "[ThugTV](https://thugtv.st) - 720p / Dual Audio / Ad-Toggle / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)"
     },
     {
       "category": "Stream Aggregators",
@@ -1360,7 +1356,7 @@
     {
       "category": "P-Stream Forks",
       "title": "⭐ Basement",
-      "description": "1080p / Dual Audio / External Subs / Status / Discord",
+      "description": "4K / Dual Audio / External Subs / Status / Discord",
       "links": [
         {
           "label": "Basement",
@@ -1377,7 +1373,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Basement](https://basementx.lol/)** - 1080p / Dual Audio / External Subs / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
+      "sourceLine": "⭐ **[Basement](https://basementx.lol/)** - 4K / Dual Audio / External Subs / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
     },
     {
       "category": "P-Stream Forks",
@@ -1513,7 +1509,7 @@
     },
     {
       "category": "Dedicated-Server",
-      "title": "⭐ Cno / Beta",
+      "title": "⭐ Cno / Beta or Flicx",
       "description": "4K / External Subs",
       "links": [
         {
@@ -1523,11 +1519,15 @@
         {
           "label": "Beta",
           "url": "https://beta.cno.to/"
+        },
+        {
+          "label": "Flicx",
+          "url": "https://fli.cx/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Cno](https://cno.to/)** / [Beta](https://beta.cno.to/) - 4K / External Subs"
+      "sourceLine": "⭐ **[Cno](https://cno.to/)** / [Beta](https://beta.cno.to/) or [Flicx](https://fli.cx/) - 4K / External Subs"
     },
     {
       "category": "Dedicated-Server",
@@ -1546,6 +1546,20 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[PressPlay](https://pressplayz.top/)** - 1080p / External Subs / [Discord](https://discord.com/invite/r4QrghF4B9)"
+    },
+    {
+      "category": "Dedicated-Server",
+      "title": "⭐ LE MOVIE",
+      "description": "1080p / Dual Audio / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "LE MOVIE",
+          "url": "https://lemovie.site/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[LE MOVIE](https://lemovie.site/)** - 1080p / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
@@ -1592,20 +1606,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[ShowBox](https://www.showbox.media/) - 4K / Dual Audio / External Subs / Popup + Redirect Free / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)"
-    },
-    {
-      "category": "Dedicated-Server",
-      "title": "LE MOVIE",
-      "description": "1080p / Dual Audio / Pop up + Redirect Free",
-      "links": [
-        {
-          "label": "LE MOVIE",
-          "url": "https://lemovie.site/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[LE MOVIE](https://lemovie.site/) - 1080p / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
