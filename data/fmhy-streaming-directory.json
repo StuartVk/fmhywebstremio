@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-22T12:38:11.246Z",
-  "entryCount": 218,
+  "fetchedAt": "2026-11-23T14:42:54.878Z",
+  "entryCount": 220,
   "categories": [
     "Stream Aggregators",
     "P-Stream Forks",
@@ -17,28 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 ShuttleTV, 2",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
-      "links": [
-        {
-          "label": "ShuttleTV",
-          "url": "https://shuttletv.pk/"
-        },
-        {
-          "label": "2",
-          "url": "https://shuttletv.me/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/wsPmVB7ZJZ"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[ShuttleTV](https://shuttletv.pk/)**, [2](https://shuttletv.me/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/wsPmVB7ZJZ)"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 FlyStream",
@@ -140,11 +118,11 @@
       "links": [
         {
           "label": "7Movies",
-          "url": "https://7movies.ac/"
+          "url": "https://7movies.ws/"
         },
         {
           "label": "2",
-          "url": "https://7movies.ws/"
+          "url": "https://7movies.ac/"
         },
         {
           "label": "3",
@@ -165,7 +143,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[7Movies](https://7movies.ac/)**, [2](https://7movies.ws/), [3](https://7shows.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Mirrors](https://7domains.fans/) / [Discord](https://discord.gg/JxgRaYMVHF) / [Telegram](https://t.me/+0XhCnzzvCt9hMTNl)"
+      "sourceLine": "🌟 **[7Movies](https://7movies.ws/)**, [2](https://7movies.ac/), [3](https://7shows.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Mirrors](https://7domains.fans/) / [Discord](https://discord.gg/JxgRaYMVHF) / [Telegram](https://t.me/+0XhCnzzvCt9hMTNl)"
     },
     {
       "category": "Stream Aggregators",
@@ -231,37 +209,47 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Ghostflix, 2, 3",
-      "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Status / Invite / Telegram",
+      "title": "🌟 ShuttleTV, 2",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
       "links": [
         {
-          "label": "Ghostflix",
-          "url": "https://ghostflix.st/"
+          "label": "ShuttleTV",
+          "url": "https://shuttletv.pk/"
         },
         {
           "label": "2",
-          "url": "https://redflix.st/"
+          "url": "https://shuttletv.me/"
         },
         {
-          "label": "3",
-          "url": "https://redflix.ac/"
-        },
-        {
-          "label": "Status",
-          "url": "https://redflix.fans/"
-        },
-        {
-          "label": "Invite",
-          "url": "https://discord.gg/wp5SkSWHW5"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/multichannelofficial"
+          "label": "Discord",
+          "url": "https://discord.gg/wsPmVB7ZJZ"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Ghostflix](https://ghostflix.st/)**, [2](https://redflix.st/), [3](https://redflix.ac/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Status](https://redflix.fans/) / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)"
+      "sourceLine": "🌟 **[ShuttleTV](https://shuttletv.pk/)**, [2](https://shuttletv.me/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/wsPmVB7ZJZ)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "🌟 SweetFox, 2 or 67Movies",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
+      "links": [
+        {
+          "label": "SweetFox",
+          "url": "https://sweetfox.st/"
+        },
+        {
+          "label": "2",
+          "url": "http://sweetfox.app/"
+        },
+        {
+          "label": "67Movies",
+          "url": "https://67movies.st/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "🌟 **[SweetFox](https://sweetfox.st/)**, [2](http://sweetfox.app/) or [67Movies](https://67movies.st/) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -327,15 +315,23 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Way2Movies, 2, [3](httpsld.way2movies.vip), [4](httpsway2movies.vip)",
+      "title": "⭐ Way2Movies, 2, 3, 4",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle / Telegram / Discord",
       "links": [
         {
           "label": "Way2Movies",
-          "url": "https://beta.way2movies.live/"
+          "url": "https://way2movies.vip/"
         },
         {
           "label": "2",
+          "url": "https://old.way2movies.vip"
+        },
+        {
+          "label": "3",
+          "url": "https://beta.way2movies.live/"
+        },
+        {
+          "label": "4",
           "url": "https://way2movies.live/"
         },
         {
@@ -349,7 +345,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/), [3](httpsld.way2movies.vip), [4](httpsway2movies.vip) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
+      "sourceLine": "⭐ **[Way2Movies](https://way2movies.vip/)**, [2](https://old.way2movies.vip), [3](https://beta.way2movies.live/), [4](https://way2movies.live/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
     },
     {
       "category": "Stream Aggregators",
@@ -386,28 +382,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - 4K / External Subs / Popup + Redirect Free"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "⭐ SweetFox, 2 or 67Movies",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
-      "links": [
-        {
-          "label": "SweetFox",
-          "url": "https://sweetfox.app/"
-        },
-        {
-          "label": "2",
-          "url": "http://sweetfox.st"
-        },
-        {
-          "label": "67Movies",
-          "url": "https://67movies.st/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[SweetFox](https://sweetfox.app/)**, [2](http://sweetfox.st) or [67Movies](https://67movies.st/) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -522,6 +496,40 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ Ghostflix, 2, 3",
+      "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Status / Invite / Telegram",
+      "links": [
+        {
+          "label": "Ghostflix",
+          "url": "https://ghostflix.st/"
+        },
+        {
+          "label": "2",
+          "url": "https://redflix.st/"
+        },
+        {
+          "label": "3",
+          "url": "https://redflix.ac/"
+        },
+        {
+          "label": "Status",
+          "url": "https://redflix.fans/"
+        },
+        {
+          "label": "Invite",
+          "url": "https://discord.gg/wp5SkSWHW5"
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/multichannelofficial"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Ghostflix](https://ghostflix.st/)**, [2](https://redflix.st/), [3](https://redflix.ac/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Status](https://redflix.fans/) / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)"
     },
     {
       "category": "Stream Aggregators",
@@ -802,6 +810,20 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Freekz](https://freekz.to/) or [ZXCSTREAM](https://zxcstream.com/) - 4K / External Subs / Popup + Redirect Free / [Telegram](https://t.me/+AZZmZ7-_SFsxM2M9) / [Discord](https://discord.gg/6ZXNmPedkG)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "Reeflix",
+      "description": "4K / Dual Audio / External Subs / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Reeflix",
+          "url": "https://reeflix.st/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Pop up + Redirect Free"
     },
     {
       "category": "Stream Aggregators",
@@ -1465,17 +1487,17 @@
     },
     {
       "category": "Dedicated-Server",
-      "title": "⭐ Q62",
-      "description": "1080p / Dual Audio / Popup + Redirect Free",
+      "title": "⭐ LE MOVIE",
+      "description": "1080p / Dual Audio / Pop up + Redirect Free",
       "links": [
         {
-          "label": "Q62",
-          "url": "https://q62flix.ws/"
+          "label": "LE MOVIE",
+          "url": "https://lemovie.site/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Q62](https://q62flix.ws/)** - 1080p / Dual Audio / Popup + Redirect Free"
+      "sourceLine": "⭐ **[LE MOVIE](https://lemovie.site/)** - 1080p / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
@@ -1549,20 +1571,6 @@
     },
     {
       "category": "Dedicated-Server",
-      "title": "⭐ LE MOVIE",
-      "description": "1080p / Dual Audio / Pop up + Redirect Free",
-      "links": [
-        {
-          "label": "LE MOVIE",
-          "url": "https://lemovie.site/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[LE MOVIE](https://lemovie.site/)** - 1080p / Dual Audio / Pop up + Redirect Free"
-    },
-    {
-      "category": "Dedicated-Server",
       "title": "⭐ arc018",
       "description": "1080p / Popup + Redirect Free",
       "links": [
@@ -1606,24 +1614,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[ShowBox](https://www.showbox.media/) - 4K / Dual Audio / External Subs / Popup + Redirect Free / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)"
-    },
-    {
-      "category": "Dedicated-Server",
-      "title": "CinemaCity",
-      "description": "480p / Dual Audio / Popup + Redirect Free / Telegram",
-      "links": [
-        {
-          "label": "CinemaCity",
-          "url": "https://cinemacity.cc/"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/CinemaCity_rip"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[CinemaCity](https://cinemacity.cc/) - 480p / Dual Audio / Popup + Redirect Free / [Telegram](https://t.me/CinemaCity_rip)"
     },
     {
       "category": "Dedicated-Server",
@@ -1885,6 +1875,20 @@
     },
     {
       "category": "Dedicated-Server",
+      "title": "Q62",
+      "description": "1080p / Dual Audio / Popup + Redirect Free",
+      "links": [
+        {
+          "label": "Q62",
+          "url": "https://q62flix.ws/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Q62](https://q62flix.ws/) - 1080p / Dual Audio / Popup + Redirect Free"
+    },
+    {
+      "category": "Dedicated-Server",
       "title": "MovieBox, 2, 3, 4, 5",
       "description": "1080p / Popup + Redirect Free / Mirrors",
       "links": [
@@ -1950,6 +1954,24 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/), [3](https://lookmovie0.to/), [4](https://lookmovie4.to/), [5](https://lookmovie5.to/), [6](https://lookmovie6.to/) - 480p / External Subs / Popup + Redirect Free"
+    },
+    {
+      "category": "Dedicated-Server",
+      "title": "CinemaCity",
+      "description": "480p / Dual Audio / Popup + Redirect Free / Signup Required / Telegram",
+      "links": [
+        {
+          "label": "CinemaCity",
+          "url": "https://cinemacity.cc/"
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/CinemaCity_rip"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[CinemaCity](https://cinemacity.cc/) - 480p / Dual Audio / Popup + Redirect Free / Signup Required / [Telegram](https://t.me/CinemaCity_rip)"
     },
     {
       "category": "Dedicated-Server",
@@ -2038,7 +2060,7 @@
     {
       "category": "Multi-Server",
       "title": "⭐ ZetMoon",
-      "description": "38 Sources / Popup + Redirect Free",
+      "description": "39 Sources / Popup + Redirect Free",
       "links": [
         {
           "label": "ZetMoon",
@@ -2047,21 +2069,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[ZetMoon](https://zetmoon.live/)** - 38 Sources / Popup + Redirect Free"
-    },
-    {
-      "category": "Multi-Server",
-      "title": "⭐ TonkaCine",
-      "description": "8 Sources / Popup + Redirect Free",
-      "links": [
-        {
-          "label": "TonkaCine",
-          "url": "https://tonkacine.watch/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[TonkaCine](https://tonkacine.watch/)** - 8 Sources / Popup + Redirect Free"
+      "sourceLine": "⭐ **[ZetMoon](https://zetmoon.live/)** - 39 Sources / Popup + Redirect Free"
     },
     {
       "category": "Multi-Server",
@@ -2076,6 +2084,20 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[Fireflix](https://fireflix4.pages.dev/)** - 7 Sources"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "TonkaCine",
+      "description": "9 Sources / Popup + Redirect Free",
+      "links": [
+        {
+          "label": "TonkaCine",
+          "url": "https://tonkacine.watch/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[TonkaCine](https://tonkacine.watch/) - 9 Sources / Popup + Redirect Free"
     },
     {
       "category": "Multi-Server",
@@ -2167,20 +2189,6 @@
     },
     {
       "category": "Multi-Server",
-      "title": "Youflex",
-      "description": "30 Sources / Popup + Redirect Free",
-      "links": [
-        {
-          "label": "Youflex",
-          "url": "https://youflex.top/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Youflex](https://youflex.top/) - 30 Sources / Popup + Redirect Free"
-    },
-    {
-      "category": "Multi-Server",
       "title": "CandleStream",
       "description": "21 Sources / Popup + Redirect Free",
       "links": [
@@ -2224,6 +2232,34 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[HDToday](https://hdtoday.com.tr/) - 38 Sources / Pop up + Redirect Free"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Cineshine",
+      "description": "38 Sources / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Cineshine",
+          "url": "https://cineshine.org/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Cineshine](https://cineshine.org/) - 38 Sources / Pop up + Redirect Free"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Youflex",
+      "description": "30 Sources / Popup + Redirect Free",
+      "links": [
+        {
+          "label": "Youflex",
+          "url": "https://youflex.top/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Youflex](https://youflex.top/) - 30 Sources / Popup + Redirect Free"
     },
     {
       "category": "Multi-Server",
