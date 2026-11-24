@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-23T14:42:54.878Z",
-  "entryCount": 220,
+  "fetchedAt": "2026-11-24T14:54:21.718Z",
+  "entryCount": 222,
   "categories": [
     "Stream Aggregators",
     "P-Stream Forks",
@@ -17,28 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 FlyStream",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Subreddit / Discord",
-      "links": [
-        {
-          "label": "FlyStream",
-          "url": "https://flystream.net/"
-        },
-        {
-          "label": "Subreddit",
-          "url": "https://www.reddit.com/r/FlyStream/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/flystream"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[FlyStream](https://flystream.net/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 Vivarium",
@@ -253,21 +231,43 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ dulo",
-      "description": "4K / External Subs / Ad-Toggle / Discord",
+      "title": "🌟 FlyStream",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Subreddit / Discord",
       "links": [
         {
-          "label": "dulo",
-          "url": "https://dulo.mov/"
+          "label": "FlyStream",
+          "url": "https://flystream.net/"
+        },
+        {
+          "label": "Subreddit",
+          "url": "https://www.reddit.com/r/FlyStream/"
         },
         {
           "label": "Discord",
-          "url": "https://discord.gg/kSsqjhE2Sp"
+          "url": "https://discord.gg/flystream"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[dulo](https://dulo.mov/)** - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/kSsqjhE2Sp)"
+      "sourceLine": "🌟 **[FlyStream](https://flystream.net/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "🌟 CineLite",
+      "description": "4K / Dual Audio / Ad-Toggle / Status",
+      "links": [
+        {
+          "label": "CineLite",
+          "url": "https://cinelite.xyz/"
+        },
+        {
+          "label": "Status",
+          "url": "https://rentry.co/cinelite"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "🌟 **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
     },
     {
       "category": "Stream Aggregators",
@@ -481,24 +481,6 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ CineLite",
-      "description": "4K / Dual Audio / Ad-Toggle / Status",
-      "links": [
-        {
-          "label": "CineLite",
-          "url": "https://cinelite.xyz/"
-        },
-        {
-          "label": "Status",
-          "url": "https://rentry.co/cinelite"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
-    },
-    {
-      "category": "Stream Aggregators",
       "title": "⭐ Ghostflix, 2, 3",
       "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Status / Invite / Telegram",
       "links": [
@@ -530,6 +512,38 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[Ghostflix](https://ghostflix.st/)**, [2](https://redflix.st/), [3](https://redflix.ac/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Status](https://redflix.fans/) / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ dulo",
+      "description": "4K / External Subs / Ad-Toggle / Discord",
+      "links": [
+        {
+          "label": "dulo",
+          "url": "https://dulo.mov/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/kSsqjhE2Sp"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[dulo](https://dulo.mov/)** - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/kSsqjhE2Sp)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ Vumeto",
+      "description": "4K / Dual Audio / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Vumeto",
+          "url": "https://vumeto.live/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Vumeto](https://vumeto.live/)** - 4K / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Stream Aggregators",
@@ -922,20 +936,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me), [4](https://cinemaos.in) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/38yFnFCJnA)"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "Vumeto",
-      "description": "4K / Dual Audio / Pop up + Redirect Free",
-      "links": [
-        {
-          "label": "Vumeto",
-          "url": "https://vumeto.live/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Vumeto](https://vumeto.live/) - 4K / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Stream Aggregators",
@@ -1457,7 +1457,7 @@
     },
     {
       "category": "P-Stream Forks",
-      "title": "StreamWatch, 2, 3",
+      "title": "StreamWatch, 2",
       "description": "1080p / External Subs / Discord / GitHub",
       "links": [
         {
@@ -1467,10 +1467,6 @@
         {
           "label": "2",
           "url": "https://pstream.site/"
-        },
-        {
-          "label": "3",
-          "url": "https://streamwatch.pages.dev/"
         },
         {
           "label": "Discord",
@@ -1483,7 +1479,29 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[StreamWatch](https://streamwatch.online/), [2](https://pstream.site/), [3](https://streamwatch.pages.dev/) - 1080p / External Subs / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)"
+      "sourceLine": "[StreamWatch](https://streamwatch.online/), [2](https://pstream.site/) - 1080p / External Subs / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)"
+    },
+    {
+      "category": "Dedicated-Server",
+      "title": "⭐ Cno / Beta or Flicx",
+      "description": "4K / External Subs / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Cno",
+          "url": "https://cno.to/"
+        },
+        {
+          "label": "Beta",
+          "url": "https://beta.cno.to/"
+        },
+        {
+          "label": "Flicx",
+          "url": "https://fli.cx/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Cno](https://cno.to/)** / [Beta](https://beta.cno.to/) or [Flicx](https://fli.cx/) - 4K / External Subs / Pop up + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
@@ -1528,28 +1546,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[NEPU](https://nepu.io/)**, [2](https://nepu.is/), [3](https://nepu.app/) - 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)"
-    },
-    {
-      "category": "Dedicated-Server",
-      "title": "⭐ Cno / Beta or Flicx",
-      "description": "4K / External Subs",
-      "links": [
-        {
-          "label": "Cno",
-          "url": "https://cno.to/"
-        },
-        {
-          "label": "Beta",
-          "url": "https://beta.cno.to/"
-        },
-        {
-          "label": "Flicx",
-          "url": "https://fli.cx/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Cno](https://cno.to/)** / [Beta](https://beta.cno.to/) or [Flicx](https://fli.cx/) - 4K / External Subs"
     },
     {
       "category": "Dedicated-Server",
@@ -2203,6 +2199,20 @@
     },
     {
       "category": "Multi-Server",
+      "title": "PiePrime",
+      "description": "3 Sources",
+      "links": [
+        {
+          "label": "PiePrime",
+          "url": "https://pieprime.cc/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[PiePrime](https://pieprime.cc/) - 3 Sources"
+    },
+    {
+      "category": "Multi-Server",
       "title": "Comvie",
       "description": "39 Sources / Popup + Redirect Free / Discord",
       "links": [
@@ -2310,6 +2320,20 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Bingeflix](https://bingeflix.tv/) - 11 Sources / [Discord](https://discord.com/invite/ajRY6Bn3rr)"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Aloso",
+      "description": "38 Sources / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Aloso",
+          "url": "https://aloso.vercel.app/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Aloso](https://aloso.vercel.app/) - 38 Sources / Pop up + Redirect Free"
     },
     {
       "category": "Multi-Server",
