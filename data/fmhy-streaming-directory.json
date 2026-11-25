@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-24T14:54:21.718Z",
-  "entryCount": 222,
+  "fetchedAt": "2026-11-25T14:26:58.586Z",
+  "entryCount": 223,
   "categories": [
     "Stream Aggregators",
     "P-Stream Forks",
@@ -17,24 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 Vivarium",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
-      "links": [
-        {
-          "label": "Vivarium",
-          "url": "https://vivarium.st/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/pxVxUdFxj5"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Vivarium](https://vivarium.st/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/pxVxUdFxj5)"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 ArrowTV, 2 or Cinezo, 2",
@@ -231,12 +213,16 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "🌟 FlyStream",
+      "title": "🌟 FlyStream, 2",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle / Subreddit / Discord",
       "links": [
         {
           "label": "FlyStream",
           "url": "https://flystream.net/"
+        },
+        {
+          "label": "2",
+          "url": "https://flystream.pk/"
         },
         {
           "label": "Subreddit",
@@ -249,7 +235,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[FlyStream](https://flystream.net/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)"
+      "sourceLine": "🌟 **[FlyStream](https://flystream.net/)**, [2](https://flystream.pk/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)"
     },
     {
       "category": "Stream Aggregators",
@@ -271,21 +257,25 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Spacedom",
-      "description": "4K / Dual Audio / Popup + Redirect Free / Discord",
+      "title": "🌟 Vivarium, 2",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
       "links": [
         {
-          "label": "Spacedom",
-          "url": "https://spacedom.live/"
+          "label": "Vivarium",
+          "url": "https://vivarium.st/"
+        },
+        {
+          "label": "2",
+          "url": "https://vivarium.cx/"
         },
         {
           "label": "Discord",
-          "url": "https://discord.com/invite/6NU9thcPYs"
+          "url": "https://discord.gg/pxVxUdFxj5"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Spacedom](https://spacedom.live/)** - 4K / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/6NU9thcPYs)"
+      "sourceLine": "🌟 **[Vivarium](https://vivarium.st/)**, [2](https://vivarium.cx/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/pxVxUdFxj5)"
     },
     {
       "category": "Stream Aggregators",
@@ -368,7 +358,7 @@
     {
       "category": "Stream Aggregators",
       "title": "⭐ Reelix or Coreflix",
-      "description": "4K / External Subs / Popup + Redirect Free",
+      "description": "4K / External Subs / Ad-Toggle / [Discord](ttps://discord.gg/29H2dUCS8)",
       "links": [
         {
           "label": "Reelix",
@@ -381,7 +371,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - 4K / External Subs / Popup + Redirect Free"
+      "sourceLine": "⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - 4K / External Subs / Ad-Toggle / [Discord](ttps://discord.gg/29H2dUCS8)"
     },
     {
       "category": "Stream Aggregators",
@@ -455,7 +445,7 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Flixer, 2, 3 or Hexa",
+      "title": "⭐ Flixer, 2 or Hexa",
       "description": "1080p / Ad-Toggle",
       "links": [
         {
@@ -464,10 +454,6 @@
         },
         {
           "label": "2",
-          "url": "https://flixer.su/"
-        },
-        {
-          "label": "3",
           "url": "https://flixer.cx/"
         },
         {
@@ -477,7 +463,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle"
+      "sourceLine": "⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -534,7 +520,7 @@
     {
       "category": "Stream Aggregators",
       "title": "⭐ Vumeto",
-      "description": "4K / Dual Audio / Pop up + Redirect Free",
+      "description": "4K / Dual Audio / Ad-Toggle",
       "links": [
         {
           "label": "Vumeto",
@@ -543,16 +529,34 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Vumeto](https://vumeto.live/)** - 4K / Dual Audio / Pop up + Redirect Free"
+      "sourceLine": "⭐ **[Vumeto](https://vumeto.live/)** - 4K / Dual Audio / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
-      "title": "BingeBang",
+      "title": "⭐ Spacedom",
+      "description": "4K / Dual Audio / Popup + Redirect Free / Discord",
+      "links": [
+        {
+          "label": "Spacedom",
+          "url": "https://spacedom.live/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.com/invite/6NU9thcPYs"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Spacedom](https://spacedom.live/)** - 4K / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/6NU9thcPYs)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ BingeBang",
       "description": "4K / External Subs / Popup + Redirect Free / Status / Discord",
       "links": [
         {
           "label": "BingeBang",
-          "url": "https://bingebang.st/"
+          "url": "https://bingebang.sx/"
         },
         {
           "label": "Status",
@@ -565,7 +569,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[BingeBang](https://bingebang.st/) - 4K / External Subs / Popup + Redirect Free / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)"
+      "sourceLine": "⭐ **[BingeBang](https://bingebang.sx/)** - 4K / External Subs / Popup + Redirect Free / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)"
     },
     {
       "category": "Stream Aggregators",
@@ -828,7 +832,7 @@
     {
       "category": "Stream Aggregators",
       "title": "Reeflix",
-      "description": "4K / Dual Audio / External Subs / Pop up + Redirect Free",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
         {
           "label": "Reeflix",
@@ -837,7 +841,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Pop up + Redirect Free"
+      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -967,6 +971,24 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "Kaizoku",
+      "description": "4K / Dual Audio / Popup + Redirect Free / Discord",
+      "links": [
+        {
+          "label": "Kaizoku",
+          "url": "https://kaizoku.site/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.com/invite/hrjuTa3CaH"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Kaizoku](https://kaizoku.site/) - 4K / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/hrjuTa3CaH)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "driftly",
       "description": "4K / Pop up + Redirect Free",
       "links": [
@@ -1028,6 +1050,34 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[VidPlay](https://vidplay.to/) - 1080p / External Subs / Popup + Redirect Free"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "PFlix",
+      "description": "1080p / Popup + Redirect Free",
+      "links": [
+        {
+          "label": "PFlix",
+          "url": "https://pflix.net/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[PFlix](https://pflix.net/) - 1080p / Popup + Redirect Free"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "Tonitrus",
+      "description": "1080p / Popup + Redirect Free",
+      "links": [
+        {
+          "label": "Tonitrus",
+          "url": "https://tonitrus.online/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Tonitrus](https://tonitrus.online/) - 1080p / Popup + Redirect Free"
     },
     {
       "category": "Stream Aggregators",
@@ -1118,6 +1168,24 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[cineruv](https://cineruv.website/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "CineBros",
+      "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
+      "links": [
+        {
+          "label": "CineBros",
+          "url": "https://cinebros.net/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/gS2Q7umyP"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[CineBros](https://cinebros.net/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.gg/gS2Q7umyP)"
     },
     {
       "category": "Stream Aggregators",
@@ -1347,6 +1415,28 @@
     },
     {
       "category": "P-Stream Forks",
+      "title": "⭐ Basement",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Status / Discord",
+      "links": [
+        {
+          "label": "Basement",
+          "url": "https://basementx.lol/"
+        },
+        {
+          "label": "Status",
+          "url": "https://rentry.co/basementx"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.com/invite/bWYUqEg7Xq"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Basement](https://basementx.lol/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
+    },
+    {
+      "category": "P-Stream Forks",
       "title": "⭐ Aether, 2, 3",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle / Status / Discord",
       "links": [
@@ -1374,28 +1464,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[Aether](https://aether.st/)**, [2](https://aether.cx/), [3](https://aether.ist/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)"
-    },
-    {
-      "category": "P-Stream Forks",
-      "title": "⭐ Basement",
-      "description": "4K / Dual Audio / External Subs / Status / Discord",
-      "links": [
-        {
-          "label": "Basement",
-          "url": "https://basementx.lol/"
-        },
-        {
-          "label": "Status",
-          "url": "https://rentry.co/basementx"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.com/invite/bWYUqEg7Xq"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Basement](https://basementx.lol/)** - 4K / Dual Audio / External Subs / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
     },
     {
       "category": "P-Stream Forks",
@@ -1505,20 +1573,6 @@
     },
     {
       "category": "Dedicated-Server",
-      "title": "⭐ LE MOVIE",
-      "description": "1080p / Dual Audio / Pop up + Redirect Free",
-      "links": [
-        {
-          "label": "LE MOVIE",
-          "url": "https://lemovie.site/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[LE MOVIE](https://lemovie.site/)** - 1080p / Dual Audio / Pop up + Redirect Free"
-    },
-    {
-      "category": "Dedicated-Server",
       "title": "⭐ NEPU, 2, 3",
       "description": "4K / Status / Discord",
       "links": [
@@ -1546,6 +1600,20 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[NEPU](https://nepu.io/)**, [2](https://nepu.is/), [3](https://nepu.app/) - 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)"
+    },
+    {
+      "category": "Dedicated-Server",
+      "title": "⭐ LE MOVIE",
+      "description": "720p / Dual Audio / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "LE MOVIE",
+          "url": "https://lemovie.site/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[LE MOVIE](https://lemovie.site/)** - 720p / Dual Audio / Pop up + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
@@ -2112,7 +2180,7 @@
     {
       "category": "Multi-Server",
       "title": "HydraHD, 2",
-      "description": "12 Sources / Status / Telegram",
+      "description": "13 Sources / Status / Telegram",
       "links": [
         {
           "label": "HydraHD",
@@ -2133,7 +2201,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[HydraHD](https://hydrahd.gd/), [2](https://hydrahd.com/) - 12 Sources / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)"
+      "sourceLine": "[HydraHD](https://hydrahd.gd/), [2](https://hydrahd.com/) - 13 Sources / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)"
     },
     {
       "category": "Multi-Server",
@@ -2199,38 +2267,6 @@
     },
     {
       "category": "Multi-Server",
-      "title": "PiePrime",
-      "description": "3 Sources",
-      "links": [
-        {
-          "label": "PiePrime",
-          "url": "https://pieprime.cc/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[PiePrime](https://pieprime.cc/) - 3 Sources"
-    },
-    {
-      "category": "Multi-Server",
-      "title": "Comvie",
-      "description": "39 Sources / Popup + Redirect Free / Discord",
-      "links": [
-        {
-          "label": "Comvie",
-          "url": "https://comvie.lol/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/3jbb3fXJWj"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Comvie](https://comvie.lol/) - 39 Sources / Popup + Redirect Free / [Discord](https://discord.gg/3jbb3fXJWj)"
-    },
-    {
-      "category": "Multi-Server",
       "title": "HDToday",
       "description": "38 Sources / Pop up + Redirect Free",
       "links": [
@@ -2256,6 +2292,24 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Cineshine](https://cineshine.org/) - 38 Sources / Pop up + Redirect Free"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Comvie",
+      "description": "39 Sources / Popup + Redirect Free / Discord",
+      "links": [
+        {
+          "label": "Comvie",
+          "url": "https://comvie.lol/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/3jbb3fXJWj"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Comvie](https://comvie.lol/) - 39 Sources / Popup + Redirect Free / [Discord](https://discord.gg/3jbb3fXJWj)"
     },
     {
       "category": "Multi-Server",
@@ -2305,26 +2359,8 @@
     },
     {
       "category": "Multi-Server",
-      "title": "Bingeflix",
-      "description": "11 Sources / Discord",
-      "links": [
-        {
-          "label": "Bingeflix",
-          "url": "https://bingeflix.tv/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.com/invite/ajRY6Bn3rr"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Bingeflix](https://bingeflix.tv/) - 11 Sources / [Discord](https://discord.com/invite/ajRY6Bn3rr)"
-    },
-    {
-      "category": "Multi-Server",
       "title": "Aloso",
-      "description": "38 Sources / Pop up + Redirect Free",
+      "description": "46 Sources / Pop up + Redirect Free",
       "links": [
         {
           "label": "Aloso",
@@ -2333,7 +2369,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[Aloso](https://aloso.vercel.app/) - 38 Sources / Pop up + Redirect Free"
+      "sourceLine": "[Aloso](https://aloso.vercel.app/) - 46 Sources / Pop up + Redirect Free"
     },
     {
       "category": "Multi-Server",
@@ -2377,24 +2413,6 @@
     },
     {
       "category": "Multi-Server",
-      "title": "ONOFLIX",
-      "description": "16 Sources / Discord",
-      "links": [
-        {
-          "label": "ONOFLIX",
-          "url": "https://onoflix.live/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/eEmGSZ98cP"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[ONOFLIX](https://onoflix.live/) - 16 Sources / [Discord](https://discord.gg/eEmGSZ98cP)"
-    },
-    {
-      "category": "Multi-Server",
       "title": "FLIKER",
       "description": "17 Sources / Popup + Redirect Free",
       "links": [
@@ -2406,6 +2424,24 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[FLIKER](https://fliker.freebuff.app/) - 17 Sources / Popup + Redirect Free"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Bingeflix",
+      "description": "11 Sources / Discord",
+      "links": [
+        {
+          "label": "Bingeflix",
+          "url": "https://bingeflix.tv/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.com/invite/ajRY6Bn3rr"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Bingeflix](https://bingeflix.tv/) - 11 Sources / [Discord](https://discord.com/invite/ajRY6Bn3rr)"
     },
     {
       "category": "Multi-Server",
@@ -2424,24 +2460,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[StreameX](https://streamex.hn/), [2](https://streamex.ws/) - 15 Sources / Popup + Redirect Free"
-    },
-    {
-      "category": "Multi-Server",
-      "title": "Snowstream",
-      "description": "21 Sources / Popup + Redirect Free / Telegram",
-      "links": [
-        {
-          "label": "Snowstream",
-          "url": "https://snowstream.vercel.app/"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/snowstreamchat"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Snowstream](https://snowstream.vercel.app/) - 21 Sources / Popup + Redirect Free / [Telegram](https://t.me/snowstreamchat)"
     },
     {
       "category": "Multi-Server",
@@ -2492,28 +2510,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[CinebyTV](https://cinebytv.com) - 16 Sources / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cinebytv-note.md)"
-    },
-    {
-      "category": "Multi-Server",
-      "title": "Moviepire, 2",
-      "description": "38 Sources / Telegram",
-      "links": [
-        {
-          "label": "Moviepire",
-          "url": "https://moviepire.ru/"
-        },
-        {
-          "label": "2",
-          "url": "https://phland.org/"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/hdoboxapk2"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Moviepire](https://moviepire.ru/), [2](https://phland.org/) - 38 Sources / [Telegram](https://t.me/hdoboxapk2)"
     },
     {
       "category": "Multi-Server",
@@ -2636,6 +2632,28 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[WatchOrbit](https://watchorbit.me/) - 51 Sources"
+    },
+    {
+      "category": "Multi-Server",
+      "title": "Moviepire, 2",
+      "description": "38 Sources / Telegram",
+      "links": [
+        {
+          "label": "Moviepire",
+          "url": "https://moviepire.ru/"
+        },
+        {
+          "label": "2",
+          "url": "https://phland.org/"
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/hdoboxapk2"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Moviepire](https://moviepire.ru/), [2](https://phland.org/) - 38 Sources / [Telegram](https://t.me/hdoboxapk2)"
     },
     {
       "category": "Multi-Server",
