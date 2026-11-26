@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-25T14:26:58.586Z",
-  "entryCount": 223,
+  "fetchedAt": "2026-11-26T13:56:05.041Z",
+  "entryCount": 222,
   "categories": [
     "Stream Aggregators",
     "P-Stream Forks",
@@ -17,32 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 ArrowTV, 2 or Cinezo, 2",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
-      "links": [
-        {
-          "label": "ArrowTV",
-          "url": "https://arrowtv.net/"
-        },
-        {
-          "label": "2",
-          "url": "https://arrowtv.st/"
-        },
-        {
-          "label": "Cinezo",
-          "url": "https://www.cinezo.st/"
-        },
-        {
-          "label": "2",
-          "url": "https://www.flikhub.net/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[ArrowTV](https://arrowtv.net/)**, [2](https://arrowtv.st/) or [Cinezo](https://www.cinezo.st/), [2](https://www.flikhub.net/) - 4K / Dual Audio / External Subs / Ad-Toggle"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 Movy",
@@ -279,29 +253,29 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Chillflix, Toflix or Vuflix",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
+      "title": "🌟 ArrowTV, 2 or Cinezo, 2",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
         {
-          "label": "Chillflix",
-          "url": "https://chillflix.lol/"
+          "label": "ArrowTV",
+          "url": "https://arrowtv.net/"
         },
         {
-          "label": "Toflix",
-          "url": "https://toflix.co/"
+          "label": "2",
+          "url": "https://arrowtv.st/"
         },
         {
-          "label": "Vuflix",
-          "url": "https://vuflix.co/"
+          "label": "Cinezo",
+          "url": "https://www.cinezo.st/"
         },
         {
-          "label": "Discord",
-          "url": "https://discord.gg/6r5KTZgqXV"
+          "label": "2",
+          "url": "https://www.flikhub.net/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Chillflix](https://chillflix.lol/)**, [Toflix](https://toflix.co/) or [Vuflix](https://vuflix.co/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/6r5KTZgqXV)"
+      "sourceLine": "🌟 **[ArrowTV](https://arrowtv.net/)**, [2](https://arrowtv.st/) or [Cinezo](https://www.cinezo.st/), [2](https://www.flikhub.net/) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -414,7 +388,7 @@
     {
       "category": "Stream Aggregators",
       "title": "⭐ P-Stream Forks",
-      "description": "1080p / Dual Audio / External Subs",
+      "description": "4K / Dual Audio / External Subs",
       "links": [
         {
           "label": "P-Stream Forks",
@@ -423,7 +397,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - 1080p / Dual Audio / External Subs"
+      "sourceLine": "⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - 4K / Dual Audio / External Subs"
     },
     {
       "category": "Stream Aggregators",
@@ -570,6 +544,32 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "⭐ **[BingeBang](https://bingebang.sx/)** - 4K / External Subs / Popup + Redirect Free / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "⭐ Chillflix, Toflix or Vuflix",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
+      "links": [
+        {
+          "label": "Chillflix",
+          "url": "https://chillflix.lol/"
+        },
+        {
+          "label": "Toflix",
+          "url": "https://toflix.co/"
+        },
+        {
+          "label": "Vuflix",
+          "url": "https://vuflix.co/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/6r5KTZgqXV"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Chillflix](https://chillflix.lol/)**, [Toflix](https://toflix.co/) or [Vuflix](https://vuflix.co/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/6r5KTZgqXV)"
     },
     {
       "category": "Stream Aggregators",
@@ -783,6 +783,24 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "4Movie",
+      "description": "1080p / Dual Audio / Ad-Toggle / External Subs / Discord",
+      "links": [
+        {
+          "label": "4Movie",
+          "url": "https://4movie.in/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/vS8uWRhHn"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle / External Subs / [Discord](https://discord.gg/vS8uWRhHn)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "ThugTV",
       "description": "720p / Dual Audio / Ad-Toggle / Telegram / Discord",
       "links": [
@@ -832,16 +850,20 @@
     {
       "category": "Stream Aggregators",
       "title": "Reeflix",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
       "links": [
         {
           "label": "Reeflix",
           "url": "https://reeflix.st/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/29H2dUCS8"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle"
+      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/29H2dUCS8)"
     },
     {
       "category": "Stream Aggregators",
@@ -954,20 +976,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Stellar](https://stellar.rip/) - 4K / External Subs / Popup + Redirect Free"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "4Movie",
-      "description": "1080p / Dual Audio / Ad-Toggle",
-      "links": [
-        {
-          "label": "4Movie",
-          "url": "https://4movie.in/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -1420,7 +1428,7 @@
       "links": [
         {
           "label": "Basement",
-          "url": "https://basementx.lol/"
+          "url": "https://basementx.rest/"
         },
         {
           "label": "Status",
@@ -1433,7 +1441,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Basement](https://basementx.lol/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
+      "sourceLine": "⭐ **[Basement](https://basementx.rest/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
     },
     {
       "category": "P-Stream Forks",
@@ -2295,6 +2303,20 @@
     },
     {
       "category": "Multi-Server",
+      "title": "Aloso",
+      "description": "46 Sources / Pop up + Redirect Free",
+      "links": [
+        {
+          "label": "Aloso",
+          "url": "https://aloso.vercel.app/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Aloso](https://aloso.vercel.app/) - 46 Sources / Pop up + Redirect Free"
+    },
+    {
+      "category": "Multi-Server",
       "title": "Comvie",
       "description": "39 Sources / Popup + Redirect Free / Discord",
       "links": [
@@ -2359,20 +2381,6 @@
     },
     {
       "category": "Multi-Server",
-      "title": "Aloso",
-      "description": "46 Sources / Pop up + Redirect Free",
-      "links": [
-        {
-          "label": "Aloso",
-          "url": "https://aloso.vercel.app/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Aloso](https://aloso.vercel.app/) - 46 Sources / Pop up + Redirect Free"
-    },
-    {
-      "category": "Multi-Server",
       "title": "WatchSeries, 2",
       "description": "8 Sources / Ad-Toggle / Mirrors",
       "links": [
@@ -2410,20 +2418,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Flixvo](https://flixvo.pro/), [2](https://flixvo.fun/) - 30 Sources / Popup + Redirect Free"
-    },
-    {
-      "category": "Multi-Server",
-      "title": "FLIKER",
-      "description": "17 Sources / Popup + Redirect Free",
-      "links": [
-        {
-          "label": "FLIKER",
-          "url": "https://fliker.freebuff.app/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[FLIKER](https://fliker.freebuff.app/) - 17 Sources / Popup + Redirect Free"
     },
     {
       "category": "Multi-Server",
