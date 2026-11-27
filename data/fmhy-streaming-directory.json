@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-26T13:56:05.041Z",
+  "fetchedAt": "2026-11-27T13:55:15.605Z",
   "entryCount": 222,
   "categories": [
     "Stream Aggregators",
@@ -17,20 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 Movy",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
-      "links": [
-        {
-          "label": "Movy",
-          "url": "https://www.movy.sx/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Movy](https://www.movy.sx/)** - 4K / Dual Audio / External Subs / Ad-Toggle"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 Cinejoy",
@@ -165,7 +151,7 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "🌟 SweetFox, 2 or 67Movies",
+      "title": "🌟 SweetFox, 2 or 111flix",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
         {
@@ -177,13 +163,13 @@
           "url": "http://sweetfox.app/"
         },
         {
-          "label": "67Movies",
-          "url": "https://67movies.st/"
+          "label": "111flix",
+          "url": "https://111flix.net/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[SweetFox](https://sweetfox.st/)**, [2](http://sweetfox.app/) or [67Movies](https://67movies.st/) - 4K / Dual Audio / External Subs / Ad-Toggle"
+      "sourceLine": "🌟 **[SweetFox](https://sweetfox.st/)**, [2](http://sweetfox.app/) or [111flix](https://111flix.net/) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -279,37 +265,17 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Way2Movies, 2, 3, 4",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Telegram / Discord",
+      "title": "🌟 Movy",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
         {
-          "label": "Way2Movies",
-          "url": "https://way2movies.vip/"
-        },
-        {
-          "label": "2",
-          "url": "https://old.way2movies.vip"
-        },
-        {
-          "label": "3",
-          "url": "https://beta.way2movies.live/"
-        },
-        {
-          "label": "4",
-          "url": "https://way2movies.live/"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/Way2MoviesFun"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/mH4zsaAmv7"
+          "label": "Movy",
+          "url": "https://www.movy.sx/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Way2Movies](https://way2movies.vip/)**, [2](https://old.way2movies.vip), [3](https://beta.way2movies.live/), [4](https://way2movies.live/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
+      "sourceLine": "🌟 **[Movy](https://www.movy.sx/)** - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -349,8 +315,8 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "⭐ Rive, 2, 3 or CorsFlix, 2",
-      "description": "1080p / External Subs / Ad-Toggle / Status / Discord",
+      "title": "⭐ Rive, 2, 3, 4 or CorsFlix, 2",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Status / Discord",
       "links": [
         {
           "label": "Rive",
@@ -358,11 +324,15 @@
         },
         {
           "label": "2",
-          "url": "https://rivestream.ru/"
+          "url": "https://rivestream.st/"
         },
         {
           "label": "3",
-          "url": "https://rivestream.win/"
+          "url": "https://rivestream.pro/"
+        },
+        {
+          "label": "4",
+          "url": "https://rivestream.cz/"
         },
         {
           "label": "CorsFlix",
@@ -383,7 +353,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.win/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org) - 1080p / External Subs / Ad-Toggle / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)"
+      "sourceLine": "⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.st/), [3](https://rivestream.pro/), [4](https://rivestream.cz/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org) - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)"
     },
     {
       "category": "Stream Aggregators",
@@ -573,6 +543,40 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "⭐ Way2Movies, 2, 3, 4",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Telegram / Discord",
+      "links": [
+        {
+          "label": "Way2Movies",
+          "url": "https://way2movies.vip/"
+        },
+        {
+          "label": "2",
+          "url": "https://old.way2movies.vip"
+        },
+        {
+          "label": "3",
+          "url": "https://beta.way2movies.live/"
+        },
+        {
+          "label": "4",
+          "url": "https://way2movies.live/"
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/Way2MoviesFun"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/mH4zsaAmv7"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "⭐ **[Way2Movies](https://way2movies.vip/)**, [2](https://old.way2movies.vip), [3](https://beta.way2movies.live/), [4](https://way2movies.live/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "Lightflix or Afterdusk",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
@@ -649,6 +653,28 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "Reeflix",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Mirrors / Discord",
+      "links": [
+        {
+          "label": "Reeflix",
+          "url": "https://reeflix.st/"
+        },
+        {
+          "label": "Mirrors",
+          "url": "https://rentry.co/reeflix"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/29H2dUCS8"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Mirrors](https://rentry.co/reeflix) / [Discord](https://discord.gg/29H2dUCS8)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "Movie Night",
       "description": "1080p / Ad-Toggle / Discord",
       "links": [
@@ -704,6 +730,32 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[MovieBite](https://moviebite.org/) - 1080p / Ad-Toggle / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)"
+    },
+    {
+      "category": "Stream Aggregators",
+      "title": "SvStream, 2, 3",
+      "description": "4K / External Subs / Ad-Toggle / Status",
+      "links": [
+        {
+          "label": "SvStream",
+          "url": "https://svstream.cc/"
+        },
+        {
+          "label": "2",
+          "url": "https://nomorflix.cc/"
+        },
+        {
+          "label": "3",
+          "url": "https://diostream.cc/"
+        },
+        {
+          "label": "Status",
+          "url": "https://nomorflix.com/"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[SvStream](https://svstream.cc/), [2](https://nomorflix.cc/), [3](https://diostream.cc/) - 4K / External Subs / Ad-Toggle / [Status](https://nomorflix.com/)"
     },
     {
       "category": "Stream Aggregators",
@@ -849,26 +901,8 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "Reeflix",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
-      "links": [
-        {
-          "label": "Reeflix",
-          "url": "https://reeflix.st/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/29H2dUCS8"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/29H2dUCS8)"
-    },
-    {
-      "category": "Stream Aggregators",
       "title": "watched",
-      "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
+      "description": "4K / Dual Audio / External Subs / Popup + Redirect Free / Discord",
       "links": [
         {
           "label": "watched",
@@ -881,7 +915,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[watched](https://watched.cx/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.gg/t8J7eyY2F)"
+      "sourceLine": "[watched](https://watched.cx/) - 4K / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.gg/t8J7eyY2F)"
     },
     {
       "category": "Stream Aggregators",
@@ -1139,32 +1173,6 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "SvStream, 2, 3",
-      "description": "1080p / External Subs / Status",
-      "links": [
-        {
-          "label": "SvStream",
-          "url": "https://svstream.cc/"
-        },
-        {
-          "label": "2",
-          "url": "https://nomorflix.cc/"
-        },
-        {
-          "label": "3",
-          "url": "https://diostream.cc/"
-        },
-        {
-          "label": "Status",
-          "url": "https://nomorflix.com/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[SvStream](https://svstream.cc/), [2](https://nomorflix.cc/), [3](https://diostream.cc/) - 1080p / External Subs / [Status](https://nomorflix.com/)"
-    },
-    {
-      "category": "Stream Aggregators",
       "title": "cineruv",
       "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free",
       "links": [
@@ -1396,7 +1404,7 @@
       "links": [
         {
           "label": "frameXTV",
-          "url": "https://framextv.xyz/"
+          "url": "https://framextv.cc/"
         },
         {
           "label": "Discord",
@@ -1405,7 +1413,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[frameXTV](https://framextv.xyz/) - 4K / External Subs / [Discord](https://discord.gg/vPCHZ6PgRX)"
+      "sourceLine": "[frameXTV](https://framextv.cc/) - 4K / External Subs / [Discord](https://discord.gg/vPCHZ6PgRX)"
     },
     {
       "category": "Stream Aggregators",
@@ -1428,7 +1436,7 @@
       "links": [
         {
           "label": "Basement",
-          "url": "https://basementx.rest/"
+          "url": "https://basement.rest/"
         },
         {
           "label": "Status",
@@ -1436,12 +1444,12 @@
         },
         {
           "label": "Discord",
-          "url": "https://discord.com/invite/bWYUqEg7Xq"
+          "url": "https://discord.gg/EqbCFxS47q"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[Basement](https://basementx.rest/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)"
+      "sourceLine": "⭐ **[Basement](https://basement.rest/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.gg/EqbCFxS47q)"
     },
     {
       "category": "P-Stream Forks",
@@ -1662,12 +1670,12 @@
       "links": [
         {
           "label": "StreamingUnity",
-          "url": "https://streamingunity.fun/"
+          "url": "https://streamingunity.day/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[StreamingUnity](https://streamingunity.fun/) - 720p / Dual Audio / Popup + Redirect Free"
+      "sourceLine": "[StreamingUnity](https://streamingunity.day/) - 720p / Dual Audio / Popup + Redirect Free"
     },
     {
       "category": "Dedicated-Server",
@@ -2061,12 +2069,12 @@
     },
     {
       "category": "Multi-Server",
-      "title": "⭐ 1Shows, 1Flex or 1Tube",
+      "title": "⭐ 1Waves, 1Flex or 1Tube",
       "description": "8 Sources / Popup + Redirect Free / 4K Note",
       "links": [
         {
-          "label": "1Shows",
-          "url": "http://1shows.org"
+          "label": "1Waves",
+          "url": "http://1waves.gd/"
         },
         {
           "label": "1Flex",
@@ -2083,7 +2091,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[1Shows](http://1shows.org)**, [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - 8 Sources / Popup + Redirect Free / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)"
+      "sourceLine": "⭐ **[1Waves](http://1waves.gd/)**, [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - 8 Sources / Popup + Redirect Free / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)"
     },
     {
       "category": "Multi-Server",
@@ -2092,7 +2100,7 @@
       "links": [
         {
           "label": "AniCine",
-          "url": "https://anicine.sbs/"
+          "url": "https://anicine.live/"
         },
         {
           "label": "Discord",
@@ -2101,7 +2109,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "⭐ **[AniCine](https://anicine.sbs/)** - 11 Sources / Popup + Redirect Free / [Discord](https://discord.com/invite/SVQvWm5T4r)"
+      "sourceLine": "⭐ **[AniCine](https://anicine.live/)** - 11 Sources / Popup + Redirect Free / [Discord](https://discord.com/invite/SVQvWm5T4r)"
     },
     {
       "category": "Multi-Server",
@@ -2368,7 +2376,7 @@
       "links": [
         {
           "label": "Flyflix",
-          "url": "https://flyflix.cc/"
+          "url": "https://flyflix.app/"
         },
         {
           "label": "Discord",
@@ -2377,7 +2385,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[Flyflix](https://flyflix.cc/) - 23 Sources / Popup + Redirect Free / [Discord](https://discord.gg/sssvheMsVT)"
+      "sourceLine": "[Flyflix](https://flyflix.app/) - 23 Sources / Popup + Redirect Free / [Discord](https://discord.gg/sssvheMsVT)"
     },
     {
       "category": "Multi-Server",
@@ -3874,12 +3882,12 @@
       "links": [
         {
           "label": "⁠AIOStreams",
-          "url": "https://docs.aiostreams.viren070.me/apps/"
+          "url": "https://aiostreams.org/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[⁠AIOStreams](https://docs.aiostreams.viren070.me/apps/) - Streaming App / Debrid or Usenet Required / Windows, macOS, Linux"
+      "sourceLine": "[⁠AIOStreams](https://aiostreams.org/) - Streaming App / Debrid or Usenet Required / Windows, macOS, Linux"
     },
     {
       "category": "Streaming Apps",
