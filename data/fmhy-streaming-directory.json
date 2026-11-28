@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "FMHY official wiki",
   "sourceUrl": "https://github.com/fmhy/FMHY/wiki/Streaming",
-  "fetchedAt": "2026-11-27T13:55:15.605Z",
-  "entryCount": 222,
+  "fetchedAt": "2026-11-28T13:02:23.473Z",
+  "entryCount": 221,
   "categories": [
     "Stream Aggregators",
     "P-Stream Forks",
@@ -17,20 +17,6 @@
   ],
   "note": "Directory metadata only. Listing does not imply authorization, availability, compatibility, or Stremio playback support.",
   "entries": [
-    {
-      "category": "Stream Aggregators",
-      "title": "🌟 Cinejoy",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
-      "links": [
-        {
-          "label": "Cinejoy",
-          "url": "https://cinejoy.pk/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Cinejoy](https://cinejoy.pk/)** - 4K / Dual Audio / External Subs / Ad-Toggle"
-    },
     {
       "category": "Stream Aggregators",
       "title": "🌟 7Movies, 2, 3",
@@ -67,12 +53,12 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "🌟 Cinecat, 2",
+      "title": "🌟 Catflix, 2",
       "description": "4K / External Subs / Ad-Toggle / Discord",
       "links": [
         {
-          "label": "Cinecat",
-          "url": "https://cinecat.eu/"
+          "label": "Catflix",
+          "url": "https://catflix.mov/"
         },
         {
           "label": "2",
@@ -85,7 +71,7 @@
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Cinecat](https://cinecat.eu/)**, [2](https://beta.cinecat.eu/) - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/mSKTq4FnC)"
+      "sourceLine": "🌟 **[Catflix](https://catflix.mov/)**, [2](https://beta.cinecat.eu/) - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/mSKTq4FnC)"
     },
     {
       "category": "Stream Aggregators",
@@ -200,7 +186,7 @@
     {
       "category": "Stream Aggregators",
       "title": "🌟 CineLite",
-      "description": "4K / Dual Audio / Ad-Toggle / Status",
+      "description": "4K / Dual Audio / Ad-Toggle / Status / Discord",
       "links": [
         {
           "label": "CineLite",
@@ -209,11 +195,15 @@
         {
           "label": "Status",
           "url": "https://rentry.co/cinelite"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/x8EZ4mpdCA"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite)"
+      "sourceLine": "🌟 **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Ad-Toggle / [Status](https://rentry.co/cinelite) / [Discord](https://discord.gg/x8EZ4mpdCA)"
     },
     {
       "category": "Stream Aggregators",
@@ -265,17 +255,21 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "🌟 Movy",
+      "title": "🌟 Movy or Racz",
       "description": "4K / Dual Audio / External Subs / Ad-Toggle",
       "links": [
         {
           "label": "Movy",
           "url": "https://www.movy.sx/"
+        },
+        {
+          "label": "Racz",
+          "url": "http://www.racz.to"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "🌟 **[Movy](https://www.movy.sx/)** - 4K / Dual Audio / External Subs / Ad-Toggle"
+      "sourceLine": "🌟 **[Movy](https://www.movy.sx/)** or [Racz](http://www.racz.to) - 4K / Dual Audio / External Subs / Ad-Toggle"
     },
     {
       "category": "Stream Aggregators",
@@ -733,6 +727,28 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "ThugTV",
+      "description": "4K / Dual Audio / Ad-Toggle / Telegram / Discord",
+      "links": [
+        {
+          "label": "ThugTV",
+          "url": "https://thugtv.st"
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/thugtvonline"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/kZWYkvuGhM"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[ThugTV](https://thugtv.st) - 4K / Dual Audio / Ad-Toggle / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "SvStream, 2, 3",
       "description": "4K / External Subs / Ad-Toggle / Status",
       "links": [
@@ -799,6 +815,28 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "TaroFlix or Cinetaro",
+      "description": "4K / Dual Audio / Ad-Toggle / Discord",
+      "links": [
+        {
+          "label": "TaroFlix",
+          "url": "https://taroflix.net/"
+        },
+        {
+          "label": "Cinetaro",
+          "url": "https://cinetaro.to/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/2UPkZwn9v"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[TaroFlix](https://taroflix.net/) or [Cinetaro](https://cinetaro.to/) - 4K / Dual Audio / Ad-Toggle / [Discord](https://discord.gg/2UPkZwn9v)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "Zenox",
       "description": "4K / Dual Audio / External Subs / Popup + Redirect Free / Discord",
       "links": [
@@ -850,28 +888,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle / External Subs / [Discord](https://discord.gg/vS8uWRhHn)"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "ThugTV",
-      "description": "720p / Dual Audio / Ad-Toggle / Telegram / Discord",
-      "links": [
-        {
-          "label": "ThugTV",
-          "url": "https://thugtv.st"
-        },
-        {
-          "label": "Telegram",
-          "url": "https://t.me/thugtvonline"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/kZWYkvuGhM"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[ThugTV](https://thugtv.st) - 720p / Dual Audio / Ad-Toggle / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)"
     },
     {
       "category": "Stream Aggregators",
@@ -1045,25 +1061,17 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "TaroFlix or Cinetaro",
-      "description": "1080p / Dual Audio / Ad-Toggle / Discord",
+      "title": "Plyx",
+      "description": "1080p / Dual Audio / External Subs",
       "links": [
         {
-          "label": "TaroFlix",
-          "url": "https://taroflix.net/"
-        },
-        {
-          "label": "Cinetaro",
-          "url": "https://cinetaro.to/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/2UPkZwn9v"
+          "label": "Plyx",
+          "url": "https://plyx.cc/"
         }
       ],
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
-      "sourceLine": "[TaroFlix](https://taroflix.net/) or [Cinetaro](https://cinetaro.to/) - 1080p / Dual Audio / Ad-Toggle / [Discord](https://discord.gg/2UPkZwn9v)"
+      "sourceLine": "[Plyx](https://plyx.cc/) - 1080p / Dual Audio / External Subs"
     },
     {
       "category": "Stream Aggregators",
@@ -1219,24 +1227,6 @@
     },
     {
       "category": "Stream Aggregators",
-      "title": "Cinemove or Cinex",
-      "description": "1080p / Dual Audio / External Subs",
-      "links": [
-        {
-          "label": "Cinemove",
-          "url": "https://cinemove.cc/"
-        },
-        {
-          "label": "Cinex",
-          "url": "https://cinex.lol/"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[Cinemove](https://cinemove.cc/) or [Cinex](https://cinex.lol/) - 1080p / Dual Audio / External Subs"
-    },
-    {
-      "category": "Stream Aggregators",
       "title": "Mapple",
       "description": "4K / External Subs / Telegram",
       "links": [
@@ -1323,6 +1313,24 @@
     },
     {
       "category": "Stream Aggregators",
+      "title": "frameXTV",
+      "description": "4K / External Subs / Discord",
+      "links": [
+        {
+          "label": "frameXTV",
+          "url": "https://framextv.cc/"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/vPCHZ6PgRX"
+        }
+      ],
+      "directoryOnly": true,
+      "playbackIntegration": "not-implemented",
+      "sourceLine": "[frameXTV](https://framextv.cc/) - 4K / External Subs / [Discord](https://discord.gg/vPCHZ6PgRX)"
+    },
+    {
+      "category": "Stream Aggregators",
       "title": "NetPlay or Cinelove",
       "description": "1080p / External Subs / Discord",
       "links": [
@@ -1396,24 +1404,6 @@
       "directoryOnly": true,
       "playbackIntegration": "not-implemented",
       "sourceLine": "[Youplex](https://youplex.site/) - 1080p / Dual Audio / [Discord](https://discord.com/invite/5eWu9Vz6tQ)"
-    },
-    {
-      "category": "Stream Aggregators",
-      "title": "frameXTV",
-      "description": "4K / External Subs / Discord",
-      "links": [
-        {
-          "label": "frameXTV",
-          "url": "https://framextv.cc/"
-        },
-        {
-          "label": "Discord",
-          "url": "https://discord.gg/vPCHZ6PgRX"
-        }
-      ],
-      "directoryOnly": true,
-      "playbackIntegration": "not-implemented",
-      "sourceLine": "[frameXTV](https://framextv.cc/) - 4K / External Subs / [Discord](https://discord.gg/vPCHZ6PgRX)"
     },
     {
       "category": "Stream Aggregators",
